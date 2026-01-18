@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Maicon Sousa Pontes! 👋
 
-<!--
-**Maicon-Sousa/Maicon-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, focado em criar soluções eficientes e apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+## 🎓 Sobre mim
+- 🚀 Atualmente a cursar **Análise e Desenvolvimento de Sistemas (ADS)**.
+- 🐍 Especial interesse em **Python** e no framework **Django**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ No que estou a trabalhar
+- 🌱 Estou a aprofundar os meus conhecimentos em lógica de programação e arquitetura de sistemas.
+
+## 📊 Metas de Estudos
+- [ ] Dominar o Django para aplicações robustas.
+- [ ] Contribuir para projetos open-source.
+
+## 📫 Como me encontrar
+- **GitHub:** [Maicon-Sousa](https://github.com/Maicon-Sousa)
+- **Instagram:** [@maicon_zks](https://www.instagram.com/maicon_zks)
+- **E-mail:** maicon.pontes.dev@gmail.com
+
+---
+"O sucesso é o somatório de pequenos esforços repetidos dia após dia."
